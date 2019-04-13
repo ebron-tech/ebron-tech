@@ -1,0 +1,4 @@
+weight: 5
+name: "Static Websites"
+icon: "fa fa-globe"
+description: "Port html templates to work with jekyll and Hugo"
