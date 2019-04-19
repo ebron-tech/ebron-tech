@@ -8,3 +8,7 @@
 .box-simple {
   min-height: 230px;
 }
+
+.logoImage{
+  max-height: 100%;
+}
