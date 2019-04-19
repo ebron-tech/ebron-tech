@@ -89,7 +89,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "your@email.com"
+    email = "contact@ebron.tech"
 
     about_us = "<p>Software & Worship.</p>"
     copyright = "Copyright (c) 2018 - 2019, EBRON.TECH; all rights reserved."
@@ -116,7 +116,7 @@ paginate = 10
 
 # Enable or disable top bar with social icons
 [params.topbar]
-    enable = true
+    enable = false
     text = """<p class="hidden-sm hidden-xs"> </p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
@@ -158,7 +158,7 @@ paginate = 10
     link_text = "Check other homepages"
 
 [params.clients]
-    enable = true
+    enable = false
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
