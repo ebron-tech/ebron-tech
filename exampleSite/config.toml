@@ -1,4 +1,4 @@
-baseurl = "ebron.tech"
+baseurl = "/"
 title = "EBRON"
 theme = "hugo-universal-theme"
 themesDir = "../templates/"
