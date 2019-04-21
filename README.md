@@ -5,5 +5,5 @@ It's based on the [Universal Template](https://github.com/devcows/hugo-universal
 ### Run it
 ```md
 cd exampleSite
-hugo server --destination=../docs --appendPort=false --baseURL=https://osadsanu.github.io/ebron.tech/
+hugo server --destination=../docs --appendPort=false --baseURL=http://ebron.tech
 ```
