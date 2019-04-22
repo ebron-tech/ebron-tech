@@ -16,7 +16,7 @@ script:
   - echo "Generating WEB with HUGO"
   - npm run lint
   - cd exampleSite
-  - hugo server --destination=../public --appendPort=false --baseU=https://ebron.tech
+  - hugo server --destination=../public --appendPort=false --baseURL=https://ebron.tech
   - cd ..
 after_success:
   - firebase deploy --token $FIRE_TOKEN
