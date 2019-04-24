@@ -1,4 +1,4 @@
-weight: 6
+weight: 3
 name: "Complete solutions"
 icon: "fa fa-microchip"
-description: "From the smallest part to general parts of the solution"
+description: "Focus on the solution: back-end to front-end. <br/> Modern practices (Microservices, Cloud oriented deployments ) and lenguages (Go, Dart, C#). "
