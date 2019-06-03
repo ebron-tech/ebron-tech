@@ -168,4 +168,4 @@ paginate = 10
 [params.recent_posts]
     enable = true
     title = "From our blog"
-    subtitle = "Take a time to read my blog where i write about whats matter to me like: Technology, Innovation, worship. <br/> Imagine each post one conversation topic."
+    subtitle = "Take a time to read my blog where I write about what's matter to me like Technology, Innovation, worship."
