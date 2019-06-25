@@ -5,6 +5,4 @@ id = "contact"
 
 # All the fuzz stuff
 
-Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by.
-
-Please feel free to contact us, our customer service center is working for you 24/7.
+Contact Ebron.tech using the next form.
