@@ -8,14 +8,11 @@ install:
 # - brew update
   - rm -rf ~/.nvm && git clone https://github.com/creationix/nvm.git ~/.nvm && (cd ~/.nvm && git checkout `git describe --abbrev=0 --tags`) && source ~/.nvm/nvm.sh && nvm install $TRAVIS_NODE_VERSION
   - npm install
-<<<<<<< HEAD
   - go get https://github.com/gohugoio/hugo
   - git clone https://github.com/gohugoio/hugo ~/hugo && (cd ~/hugo && go install)
-=======
   - wget -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.55.4/hugo_0.55.4_Linux-64bit.deb
   - sudo dpkg -i /tmp/hugo.deb
 #  - npm run install_hugo
->>>>>>> 1d99847eb254c0af3b3b66b738d67a30f3a36074
   - npm install -g firebase-tools
   
 script:
