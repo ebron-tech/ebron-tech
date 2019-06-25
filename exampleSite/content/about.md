@@ -2,7 +2,9 @@
 title = "about"
 id = "about"
 user = "oscar"
-img = "/img/aboutosd.jpg"
+imgThum = "static/img/osd_thum.jpg"
+bgImage = "static/img/big.jpg"
+smallImage = "static/img/big.jpg"
 +++
 
 # We are Gonna go
