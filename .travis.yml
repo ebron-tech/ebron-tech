@@ -3,12 +3,12 @@ lenguage: go
 go:
   - 1.7.x
 env:
-- TRAVIS_NODE_VERSION="6"
+- TRAVIS_NODE_VERSION="8"
 install:
 # - brew update
 #  - pwd
   - rm -rf ~/.nvm && git clone https://github.com/creationix/nvm.git ~/.nvm && (cd ~/.nvm && git checkout `git describe --abbrev=0 --tags`) && source ~/.nvm/nvm.sh && nvm install $TRAVIS_NODE_VERSION
-  - npm install
+ # - npm install
   - wget -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.55.4/hugo_0.55.4_Linux-64bit.deb
   - sudo dpkg -i /tmp/hugo.deb
 #  - npm run install_hugo
