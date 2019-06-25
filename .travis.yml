@@ -1,7 +1,9 @@
 sudo: required
+os:
+  - osx
 lenguage: go
 go:
-  - 1.11.x
+  - 1.7.x
 env:
 - TRAVIS_NODE_VERSION="6"
 install:
