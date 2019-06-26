@@ -3,6 +3,6 @@ title = "Contact"
 id = "contact"
 +++
 
-# All the fuzz stuff
+# All the fuzzy stuff
 
 Contact Ebron.tech using the next form.
