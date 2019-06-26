@@ -15,7 +15,7 @@ I’m an ex_machina… literary used to work for a start-up named after it. Ther
 
 Now I am Founding Ebron.tech, a project that solves problems through technology. What does make it different? Ebron was born with a higher propose: create technology for realife issues but also is focused on the church needs (more Info here).
 
-As you imagine I am also Cristian, I believe in God I have served at church for my entire life.
+As you imagine I am also Cristian, I believe in God I have served at church for my entire life in multiple ministries like: Music(🎹), Sound, Photo, Video and recently [creating software](/churchres).
 
 Check my social media:
 
