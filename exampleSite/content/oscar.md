@@ -6,9 +6,7 @@ imgThum = "static/img/osd_thum.jpg"
 bgImage = "img/about/osd_big.jpg"
 smallImage = "static/img/osd_small"
 +++
-# Founder
-Hey you.
-My name is Oscar.
+# Oscar (Founder)
 Understand and create technology has been my passion since I was a kid. I grow playing legos and surrounded by trilling amazing technology, playing stoning video games with a fancy 8-32MB video card, I thought video games were my passion until I start studying video game development at UNIAT. I figured out my passion was on other areas, but I learned a lot there (🤓software engineer + 💻computer graphics + 🎨artist concepts) = 🤯.
 
 I’m an ex_machina… literary used to work for a start-up named after it. There we developed a lot of projects. ( check them clicking here )
