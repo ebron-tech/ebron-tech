@@ -1,13 +1,10 @@
 ## Sistemas operativos 
 Contenido de la clase de sistemas operativos, Temas:
-[Terminal](https://hackmd.io/@ETrs8IH-TXGRgF0lUhdYMg/Sy2BNK2rr)
-[Git](https://hackmd.io/@ETrs8IH-TXGRgF0lUhdYMg/S1J3KABIH)
-[Ops basics](https://hackmd.io/@ETrs8IH-TXGRgF0lUhdYMg/HyPgYguYB)
-[Virtual Machine](https://hackmd.io/@ETrs8IH-TXGRgF0lUhdYMg/S1oSj2rPr)
 
-### Recursos:
-
-Libro Linux: https://drive.google.com/open?id=1A_u57JMfhLXMea2Axor-XBkpDwYr-ObC
+* [Terminal](https://hackmd.io/@ETrs8IH-TXGRgF0lUhdYMg/Sy2BNK2rr)
+* [Git](https://hackmd.io/@ETrs8IH-TXGRgF0lUhdYMg/S1J3KABIH)
+* [Ops basics](https://hackmd.io/@ETrs8IH-TXGRgF0lUhdYMg/HyPgYguYB)
+* [Virtual Machine](https://hackmd.io/@ETrs8IH-TXGRgF0lUhdYMg/S1oSj2rPr)
 
 ### Calificaciones:
 
@@ -27,7 +24,7 @@ Libro Linux: https://drive.google.com/open?id=1A_u57JMfhLXMea2Axor-XBkpDwYr-ObC
 | Gustavo         | 0.00              | 0.00         | 100.00              | 70.00                  | 42.50           |
 | Daniel Perez    | 100.00            | 0.00         | 100.00              | 100.00                 | 75.00           |
 | Enrique Salazar | 100.00            | 100.00       | 100.00              | 100.00                 | 100.00          |
-
+---
 | Presentaciones  | 1 (Sistema de archivos, Seguridad) |
 |-----------------|------------------------------------|
 | Kamila Aceves   | 100                                |
@@ -44,3 +41,7 @@ Libro Linux: https://drive.google.com/open?id=1A_u57JMfhLXMea2Axor-XBkpDwYr-ObC
 | Gustavo         | 59                                 |
 | Daniel Perez    | 100                                |
 | Enrique Salazar | 100                                |
+
+### Recursos:
+
+Libro Linux: https://drive.google.com/open?id=1A_u57JMfhLXMea2Axor-XBkpDwYr-ObC
