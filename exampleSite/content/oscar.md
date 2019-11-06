@@ -12,5 +12,5 @@ If you are interested in what is next, follow me:
 
 * Instagram: [_osdn](https://www.instagram.com/_osdn/)
 * Twitter: [@osadsanu](https://twitter.com/Osadsanu)
-* Personal Git:[osadsanu] (https://github.com/osadsanu)
-* Ebron Git: [Ebron-Tech](https://github.com/ebron-tech)
+* Personal git:[osadsanu] (https://github.com/osadsanu )
+* Ebron git: [Ebron-Tech](https://github.com/ebron-tech)

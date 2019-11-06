@@ -1,4 +1,4 @@
-## Sistemas operativos 
+## Sistemas operativos
 Contenido de la clase de sistemas operativos, Temas:
 
 * [Terminal](https://hackmd.io/@ETrs8IH-TXGRgF0lUhdYMg/Sy2BNK2rr)
@@ -6,7 +6,7 @@ Contenido de la clase de sistemas operativos, Temas:
 * [Ops basics](https://hackmd.io/@ETrs8IH-TXGRgF0lUhdYMg/HyPgYguYB)
 * [Virtual Machine](https://hackmd.io/@ETrs8IH-TXGRgF0lUhdYMg/S1oSj2rPr)
 
-### Calificaciones:
+### Calificaciones
 
 | Tareas          | Crear Repo En Git | Git en linux | Act de Presentacion | Permisos y Directorios | Promedio Tareas |
 |-----------------|-------------------|--------------|---------------------|------------------------|-----------------|
@@ -42,6 +42,6 @@ Contenido de la clase de sistemas operativos, Temas:
 | Daniel Perez    | 100                                |
 | Enrique Salazar | 100                                |
 
-### Recursos:
+### Recursos
 
 Libro Linux: https://drive.google.com/open?id=1A_u57JMfhLXMea2Axor-XBkpDwYr-ObC

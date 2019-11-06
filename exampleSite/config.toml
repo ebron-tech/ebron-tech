@@ -91,7 +91,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "contact@ebron.tech"
 
-    about_us = "<p>Software & Worship.</p>"
+    about_us = "<p>Tech & Code.</p>"
     copyright = "Copyright (c) 2018 - 2019, EBRON.TECH; all rights reserved."
 
     # Format dates with Go's time formatting
