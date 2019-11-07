@@ -6,45 +6,11 @@ Contenido de la clase de sistemas operativos, Temas:
 * [Ops basics](https://hackmd.io/@ETrs8IH-TXGRgF0lUhdYMg/HyPgYguYB)
 * [Virtual Machine](https://hackmd.io/@ETrs8IH-TXGRgF0lUhdYMg/S1oSj2rPr)
 
-### Calificaciones
+### Calificaciones 2do parcial
 
-| Tareas          | Crear Repo En Git | Git en linux | Act de Presentacion | Permisos y Directorios | Promedio Tareas |
-|-----------------|-------------------|--------------|---------------------|------------------------|-----------------|
-| Kamila Aceves   | 0.00              | 0.00         | 100.00              | 0.00                   | 25.00           |
-| Rebeca Benton   | 80.00             | 0.00         | 100.00              | 100.00                 | 70.00           |
-| David           | 80.00             | 80.00        | 100.00              | 70.00                  | 82.50           |
-| Michel Carrillo | 100.00            | 80.00        | 100.00              | 100.00                 | 95.00           |
-| Emerson Eduardo | 70.00             | 0.00         | 100.00              | 70.00                  | 60.00           |
-| Alfredo         | 100.00            | 100.00       | 100.00              | 100.00                 | 100.00          |
-| Saul Alejandro  | 80.00             | 100.00       | 100.00              | 70.00                  | 87.50           |
-| Isaac Johanan   | 0.00              | 0.00         | 100.00              | 70.00                  | 42.50           |
-| Miguel Navarro  | 100.00            | 80.00        | 100.00              | 0.00                   | 70.00           |
-| Jose Francisco  | 100.00            | 0.00         | 0.00                | 0.00                   | 25.00           |
-| Juan Pablo      | 100.00            | 50.00        | 100.00              | 70.00                  | 80.00           |
-| Gustavo         | 0.00              | 0.00         | 100.00              | 70.00                  | 42.50           |
-| Daniel Perez    | 100.00            | 0.00         | 100.00              | 100.00                 | 75.00           |
-| Enrique Salazar | 100.00            | 100.00       | 100.00              | 100.00                 | 100.00          |
----
-| Presentaciones  | 1 (Sistema de archivos, Seguridad) |
-|-----------------|------------------------------------|
-| Kamila Aceves   | 100                                |
-| Rebeca Benton   | 100                                |
-| David           | 100                                |
-| Michel Carrillo | 100                                |
-| Emerson Eduardo | 100                                |
-| Alfredo         | 100                                |
-| Saul Alejandro  | 100                                |
-| Isaac Johanan   | 89.5                               |
-| Miguel Navarro  | 100                                |
-| Jose Francisco  | 0                                  |
-| Juan Pablo      | 86                                 |
-| Gustavo         | 59                                 |
-| Daniel Perez    | 100                                |
-| Enrique Salazar | 100                                |
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT6D3I8GvHHMwCZm_oYuKdaEc4HJS98v5A3l0GvToVzpWHMKIQh6zR-fmBvRQrLejqLgLvO4pKLcnYB/pubhtml?gid=1321085503&amp;single=true&amp;widget=true&amp;headers=false" width =90% height=350px ></iframe>
 
 ### Recursos
 
 Libro Linux: https://drive.google.com/open?id=1A_u57JMfhLXMea2Axor-XBkpDwYr-ObC
 
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT6D3I8GvHHMwCZm_oYuKdaEc4HJS98v5A3l0GvToVzpWHMKIQh6zR-fmBvRQrLejqLgLvO4pKLcnYB/pubhtml?gid=1321085503&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
