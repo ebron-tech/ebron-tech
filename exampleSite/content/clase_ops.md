@@ -45,3 +45,6 @@ Contenido de la clase de sistemas operativos, Temas:
 ### Recursos
 
 Libro Linux: https://drive.google.com/open?id=1A_u57JMfhLXMea2Axor-XBkpDwYr-ObC
+
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT6D3I8GvHHMwCZm_oYuKdaEc4HJS98v5A3l0GvToVzpWHMKIQh6zR-fmBvRQrLejqLgLvO4pKLcnYB/pubhtml?gid=1321085503&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
