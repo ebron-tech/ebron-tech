@@ -14,3 +14,13 @@ Contenido de la clase de sistemas operativos, Temas:
 
 Libro Linux: https://drive.google.com/open?id=1A_u57JMfhLXMea2Axor-XBkpDwYr-ObC
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-151812238-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-151812238-2');
+</script>
+

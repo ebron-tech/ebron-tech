@@ -14,3 +14,14 @@ If you are interested in what is next, follow me:
 * Twitter: [@osadsanu](https://twitter.com/Osadsanu)
 * Personal git:[osadsanu] (https://github.com/osadsanu )
 * Ebron git: [Ebron-Tech](https://github.com/ebron-tech)
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-151812238-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-151812238-2');
+</script>
+
