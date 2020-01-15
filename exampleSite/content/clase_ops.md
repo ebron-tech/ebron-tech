@@ -17,7 +17,7 @@ Contenido de la clase de sistemas operativos, Temas:
 ### Calificaciones 2do parcial
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT6D3I8GvHHMwCZm_oYuKdaEc4HJS98v5A3l0GvToVzpWHMKIQh6zR-fmBvRQrLejqLgLvO4pKLcnYB/pubhtml?gid=1321085503&amp;single=true&amp;widget=true&amp;headers=false" width =90% height=350px ></iframe>
 
-
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT6D3I8GvHHMwCZm_oYuKdaEc4HJS98v5A3l0GvToVzpWHMKIQh6zR-fmBvRQrLejqLgLvO4pKLcnYB/pubhtml?gid=939185735&amp;single=true&amp;widget=true&amp;headers=false" width =90% height=350px ></iframe>
 
 ### Recursos
 
