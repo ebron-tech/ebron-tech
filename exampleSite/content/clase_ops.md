@@ -8,6 +8,11 @@ Contenido de la clase de sistemas operativos, Temas:
 * [Ops basics](https://hackmd.io/@ETrs8IH-TXGRgF0lUhdYMg/HyPgYguYB)
 * [Virtual Machine](https://hackmd.io/@ETrs8IH-TXGRgF0lUhdYMg/S1oSj2rPr)
 
+
+### Calificaicion Final?
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT6D3I8GvHHMwCZm_oYuKdaEc4HJS98v5A3l0GvToVzpWHMKIQh6zR-fmBvRQrLejqLgLvO4pKLcnYB/pubhtml?gid=872520323&amp;single=true&amp;widget=true&amp;headers=false" width =90% height=350px ></iframe>
+
+
 ### Calificaciones 4to parcial
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT6D3I8GvHHMwCZm_oYuKdaEc4HJS98v5A3l0GvToVzpWHMKIQh6zR-fmBvRQrLejqLgLvO4pKLcnYB/pubhtml?gid=939185735&amp;single=true&amp;widget=true&amp;headers=false" width =90% height=350px ></iframe>
 
