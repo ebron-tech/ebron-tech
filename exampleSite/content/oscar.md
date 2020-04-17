@@ -4,7 +4,8 @@ Understand and create technology has been my passion since I was a kid. I grow u
 
 I’m an ex_machina… in fact, I used to work for a start-up named after it.
 
-Now I am Founding Ebron.tech, a company that solves problems through technology. What does make it different? Ebron was born to develop solutions for real life issues, but also has higher propose focused on the church needs and make the people  (more Info here).
+Now I work for a really big company (HPE).
+Also I am the founder of Ebron.tech, a company that solves problems through technology. What does make it different? Ebron was born to develop solutions for real life issues, but also has higher propose focused on the church needs. (more Info here).
 
 As you imagine I am also Christian, I believe in God I have served at church for my entire life in multiple ministries like Music, Sound, Photo, Video and recently [creating software](https://github.com/ebron-tech/FamilyFeud).
 
